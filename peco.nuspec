@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>peco</id>
+    <title>peco</title>
+    <version>0.2.2</version>
+    <authors>lestrrat</authors>
+    <owners>taichi</owners>
+    <summary>peco</summary>
+    <description>peco</description>
+    <projectUrl>https://github.com/peco/peco/</projectUrl>
+    <tags>peco  percol</tags>
+    <copyright>Copyright (c) 2014 lestrrat</copyright>
+    <licenseUrl>https://github.com/peco/peco/blob/master/LICENSE</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
