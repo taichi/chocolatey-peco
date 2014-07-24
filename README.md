@@ -17,7 +17,7 @@ cpush peco.[current version].nupkg
 ## if you don't have Chocolatey account
 * Get a Chocolatey account:
     * http://chocolatey.org/account/Register
-* please say me [@taichi](https://twitter.com/ryushi) to add maintainer
+* please say [@taichi](https://twitter.com/ryushi) to add maintainer
 * Copy the API key from your Chocolatey account.
 
 ```
