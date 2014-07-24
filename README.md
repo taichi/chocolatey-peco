@@ -5,7 +5,7 @@ chocolatey-peco
 
 When a new version is released,
 
-* modify peco.nuspec of version
+* modify version of peco.nuspec
 * run below
 
 ```
