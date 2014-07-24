@@ -20,6 +20,7 @@ cpush peco.[current version].nupkg
 * please say me [@taichi](https://twitter.com/ryushi) to add maintainer
 * Copy the API key from your Chocolatey account.
 
-
-    cinst nuget.commandline
-    nuget SetApiKey [API_KEY_HERE] -source http://chocolatey.org/
+```
+cinst nuget.commandline
+nuget SetApiKey [API_KEY_HERE] -source http://chocolatey.org/
+```
