@@ -1,5 +1,5 @@
 $packageName = "peco"
-$version = "0.3.2"
+$version = "0.3.6"
 $url = "https://github.com/peco/peco/releases/download/v$version/peco_windows_386.zip"
 $url64 = "https://github.com/peco/peco/releases/download/v$version/peco_windows_amd64.zip"
 
