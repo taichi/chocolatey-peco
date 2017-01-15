@@ -5,7 +5,7 @@
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>peco</id>
     <title>peco</title>
-    <version>0.3.6</version>
+    <version>0.4.7</version>
     <authors>lestrrat</authors>
     <owners>taichi</owners>
     <summary>Simplistic interactive filtering tool</summary>
