@@ -20,7 +20,15 @@
     <licenseUrl>https://github.com/peco/peco/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <iconUrl>http://cdn.rawgit.com/taichi/master/img/appicon.png</iconUrl>
-    <releaseNotes></releaseNotes>
+    <releaseNotes>
+      Product release notes: https://github.com/peco/peco/releases/tag/v0.5.1
+      Release Notes for Chocolatey Packaging:
+        fix Guidelines violations below
+        * title
+        * packageSourceUrl
+        * iconUrl
+        * releaseNotes
+    </releaseNotes>
   </metadata>
   <files>
     <file src="tools\**" target="tools" />
