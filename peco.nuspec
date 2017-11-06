@@ -18,11 +18,7 @@
     <copyright>Copyright (c) 2014 lestrrat</copyright>
     <licenseUrl>https://github.com/peco/peco/blob/master/LICENSE</licenseUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <!-- Important note about https://cdn.rawgit.com: Files are cached permanently after the first request. Use commit URLs when updating the icon. -->
-    <!--<iconUrl>http://cdn.rawgit.com/__CHOCO_PKG_MAINTAINER_REPO__/master/icons/peco.png</iconUrl>-->
-    <!--<dependencies>
-      <dependency id="" version="" />
-    </dependencies>-->
+    <iconUrl>http://cdn.rawgit.com/taichi/master/img/appicon.png</iconUrl>
     <releaseNotes></releaseNotes>
   </metadata>
   <files>
