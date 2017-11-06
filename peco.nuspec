@@ -11,7 +11,8 @@
     <summary>Simplistic interactive filtering tool</summary>
     <description>Simplistic interactive filtering tool</description>
     <projectUrl>https://github.com/peco/peco/</projectUrl>
-    <projectSourceUrl>https://github.com/taichi/chocolatey-peco</projectSourceUrl>
+    <packageSourceUrl>https://github.com/taichi/chocolatey-peco</packageSourceUrl>
+    <projectSourceUrl>https://github.com/peco/peco</projectSourceUrl>
     <bugTrackerUrl>https://github.com/taichi/chocolatey-peco/issues</bugTrackerUrl>
     <docsUrl>https://github.com/peco/peco/blob/master/README.md</docsUrl>
     <tags>peco  percol</tags>
