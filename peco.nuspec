@@ -4,7 +4,7 @@
   <metadata>
     <!-- Read this before publishing packages to chocolatey.org: https://github.com/chocolatey/chocolatey/wiki/CreatePackages -->
     <id>peco</id>
-    <title>peco</title>
+    <title>Win32 peco</title>
     <version>0.5.1</version>
     <authors>lestrrat</authors>
     <owners>taichi</owners>
