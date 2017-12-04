@@ -6,12 +6,17 @@ chocolatey-peco
 When a new version is released,
 
 * modify version of peco.nuspec
+* get checksum from released archive
+  ```
+  checksum -f=.\peco_windows_386.zip -t=sha256
+  checksum -f=.\peco_windows_amd64.zip -t=sha512
+  ```
+* update install script
 * run below
-
-```
-choco pack peco.nuspec
-cpush peco.[current version].nupkg
-```
+  ```
+  choco pack peco.nuspec
+  cpush peco.[current version].nupkg
+  ```
 
 
 ## if you don't have Chocolatey account
