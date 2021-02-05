@@ -11,6 +11,11 @@ When a new version is released,
   checksum -f=.\peco_windows_386.zip -t=sha512
   checksum -f=.\peco_windows_amd64.zip -t=sha512
   ```
+* or
+  ```
+  (Get-FileHash peco_windows_386.zip SHA512).Hash
+  (Get-FileHash peco_windows_amd64.zip SHA512).Hash
+  ```
 * update install script
 * run below
   ```
